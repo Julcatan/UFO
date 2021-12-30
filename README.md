@@ -7,15 +7,19 @@
   - city
   - state
   - country
-  - shape
-  
+  & shape
 
+## Resources
+ - HTML
+ - CSS
+ - JavaScript
+ 
 ## Results: 
  --
 The website can be used to filter the data and give information in a concise way. A user could for instance filter the data by city. 
 In order to to that the user needs to add a date in the format shown in the date filter.
 
-picture
+
 
 The data table on the right will then change to show only the filtered data.
 
