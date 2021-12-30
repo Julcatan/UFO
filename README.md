@@ -16,22 +16,22 @@
  
 ## Results: 
  
-The website can be used to filter the data and give information in a concise way. 
+### The website can be used to filter the data and give information in a concise way. 
 The filter is located on the left hand side and includes an example for each entry to help the user with the input format.
 The user can enter just one or several criteria. 
 
-![image](https://user-images.githubusercontent.com/91682586/147783516-3364a41d-50a0-409a-ad8e-a10f42138aff.png)
+![image](https://user-images.githubusercontent.com/91682586/147784029-c076cffd-7b4f-4800-b43a-8010bb9dc35d.png)
 
-The table on the right will then change to show only the data that meets the entered criteria.
+### On website launch the table on the right shows the complete dataset. When criteria is entered it will then change to show only the data that meets the criteria.
 
 ![image](https://user-images.githubusercontent.com/91682586/147783628-9db3960c-5e5e-49f9-a090-41097983dfb7.png)
 
-Here is an example of a filtered search result:
+### Here is an example of a filtered search result:
 
 ![image](https://user-images.githubusercontent.com/91682586/147783717-969dab7b-79be-4d9d-b717-8d85aedf4db3.png)
 
 
-##Summary: 
+__##Summary:__ 
  
 A draw back is that the dates can not be filtered by a date range. Only filtering by a specific day is possible.
 Adding a date filter by range could be included in further developments. Another improvement could be to add a filter based on counties.
