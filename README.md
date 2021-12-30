@@ -22,7 +22,8 @@ The user can enter just one or several criteria.
 
 ![image](https://user-images.githubusercontent.com/91682586/147784029-c076cffd-7b4f-4800-b43a-8010bb9dc35d.png)
 
-### On website launch the table on the right shows the complete dataset. When criteria is entered it will then change to show only the data that meets the criteria.
+### On website launch the table on the right shows the complete dataset. 
+When criteria is entered it will then change to show only the data that meets the criteria.
 
 ![image](https://user-images.githubusercontent.com/91682586/147783628-9db3960c-5e5e-49f9-a090-41097983dfb7.png)
 
