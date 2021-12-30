@@ -36,9 +36,9 @@ __##Summary:__
  
 Draw backs:
  - The dates cannot be filtered by a date range. Only filtering by a specific day is possible.
-   ** Adding a date filter by range could be included in further developments. ** 
+   *Adding a date filter by range could be included in further developments.* 
  - Another improvement could be to add a filter based on counties.
  - It feels awkward that there is no actual submit button to "submit" the filtered input.
  - The input is not adjusting to upper or lower case. This means the user needs to know exactly how the e.g. the city was spelled in the original dataset in order to find it.
-  ** Adding a feature to ignore the case of letters and/or a dropdown menu could be included in an additional development. **
+  *Adding a feature to ignore the case of letters and/or a dropdown menu could be included in an additional development.*
 
